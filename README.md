@@ -52,9 +52,10 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-•	Router CLI configuration<br>
-•	IP configurations on PCs<br>
-•	Successful ping between PC0 and PC1<br>
+<img width="890" height="611" alt="image" src="https://github.com/user-attachments/assets/e6910a74-313b-4f73-8f38-f201330dfd36" />
+<img width="890" height="611" alt="image" src="https://github.com/user-attachments/assets/8ca60f42-e041-455d-a58f-5f022672053e" />
+<img width="890" height="611" alt="image" src="https://github.com/user-attachments/assets/c64e7ef1-c306-4df3-94ab-4bf008dfa04d" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
